@@ -1,0 +1,22 @@
+{
+  "name": "my-dairy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "\u001b[A\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[DAPI for building an application where i can jot my feelings\u001b[C\u001b[C\u001b[C\u001b[D\u001b[B\u001b[B\u001b[B\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Dindex.js)\u001b[C\u001b[C\u001b[C\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D(\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C server.js",
+  "scripts": {
+    "test": "npmtest\u001b[D\u001b[D\u001b[D\u001b[D te\u001b test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aejyke/My-Dairy.git"
+  },
+  "author": "Ejike Akwolu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aejyke/My-Dairy/issues"
+  },
+  "homepage": "https://github.com/Aejyke/My-Dairy#readme",
+  "devDependencies": {
+    "@babel/core": "^7.14.6"
+  }
+}
